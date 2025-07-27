@@ -108,7 +108,5 @@ The analysis successfully extracted valuable operational insights from the Uber 
 4. **Monitor high-fare zones** for potential demand-based pricing strategies.
 5. **Incorporate weather data in future** for even richer modeling of fare dynamics.
 
----
-
-## 📁 Repository Structure
+--
 
