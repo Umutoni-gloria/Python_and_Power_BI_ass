@@ -37,9 +37,9 @@ This project aims to analyze the Uber Fares dataset using Python and Power BI. T
 
 ### Visual Analysis in Power BI
 - **Fare Distribution**: Histograms and boxplots revealed right-skewed fare values.
-![Histogram Screenshot](screenshots Py/Histogram.png)
+![Histogram Screenshot](Screenshots Py/Histogram.png)
 
-![Boxplox Screenshot](screenshots Py/Boxplot.png)
+
 
 - **Fare vs Distance**: Positive correlation observed — longer distances generally resulted in higher fares.
 - **Hourly, Daily, and Monthly Trends**: 
