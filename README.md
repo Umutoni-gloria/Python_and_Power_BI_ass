@@ -40,6 +40,7 @@ This project aims to analyze the Uber Fares dataset using Python and Power BI. T
 ![Boxplox Screenshot](https://github.com/Umutoni-gloria/Python_and_Power_BI_ass/blob/3e6bba53e7a761aea65868aa017d228cc1804c94/Screenshots%20Py/Boxplot.png
 )
 
+![Histogram Screenshot](https://github.com/Umutoni-gloria/Python_and_Power_BI_ass/blob/abb6efdfc4fdf198f58e7a40fecc10caad1bfbd3/Screenshots%20Py/Histogram.png)
 
 
 - **Fare vs Distance**: Positive correlation observed — longer distances generally resulted in higher fares.
@@ -87,6 +88,8 @@ The interactive dashboard helps uncover fare patterns, peak hours, busiest days,
 🌍 Pickup heatmap by GPS coordinates
 
 🎯 Filters by weekday, hour, and peak hours
+
+![Histogram Screenshot](https://github.com/Umutoni-gloria/Python_and_Power_BI_ass/blob/abb6efdfc4fdf198f58e7a40fecc10caad1bfbd3/Screenshots%20Py/Dashboard.png)
 
  <a href="https://drive.google.com/file/d/12bKZSBCQy5VVvikqWKGQJs1GcxUOsFoe/view?usp=sharing" target="_blank">Download the Power BI Dashboard</a>
 
