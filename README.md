@@ -89,7 +89,7 @@ The interactive dashboard helps uncover fare patterns, peak hours, busiest days,
 🎯 Filters by weekday, hour, and peak hours
 
  <a href="https://drive.google.com/file/d/12bKZSBCQy5VVvikqWKGQJs1GcxUOsFoe/view?usp=sharing" target="_blank">Download the Power BI Dashboard</a>
-[UberFares_Dashboard.pbix](./https://github.com/Umutoni-gloria/Python_and_Power_BI_ass/blob/c5a6410094daf5523fa0b979743a7335e845b79a/DASHBOARD.pbix.pbix)
+
 
 ## ✅ Conclusion
 
