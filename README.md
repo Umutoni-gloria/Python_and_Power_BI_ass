@@ -54,7 +54,7 @@ This project aims to analyze the Uber Fares dataset using Python and Power BI. T
 - **Seasonal and Monthly Variation**: Traffic increases in warmer months.
 - **Weekday vs Weekend Patterns**: Business rides more common on weekdays, leisure rides on weekends.
 
-  ![Highlighting Screenshot](screenshots Py/Highlighting.png)
+  ![Highlighting Screenshot](https://github.com/Umutoni-gloria/Python_and_Power_BI_ass/blob/3e6bba53e7a761aea65868aa017d228cc1804c94/Screenshots%20Py/Boxplot.png)
 
 
 ### Geospatial Insights
