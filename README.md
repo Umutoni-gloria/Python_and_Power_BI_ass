@@ -37,7 +37,8 @@ This project aims to analyze the Uber Fares dataset using Python and Power BI. T
 
 ### Visual Analysis in Power BI
 - **Fare Distribution**: Histograms and boxplots revealed right-skewed fare values.
-![Histogram Screenshot](Screenshots Py/Histogram.png)
+![Boxplox Screenshot](https://github.com/Umutoni-gloria/Python_and_Power_BI_ass/blob/3e6bba53e7a761aea65868aa017d228cc1804c94/Screenshots%20Py/Boxplot.png
+)
 
 
 
@@ -47,14 +48,14 @@ This project aims to analyze the Uber Fares dataset using Python and Power BI. T
   - **Fridays and Saturdays** had the highest number of rides.
   - Rides are lower during late-night hours and early mornings.
 
-    ![Linechart Screenshot](screenshots Py/Line chart.png)
+    ![Linechart Screenshot](https://github.com/Umutoni-gloria/Python_and_Power_BI_ass/blob/cc7c91f5c649114e8e4702011c55bb0c0bc7366b/Screenshots%20Py/Line%20chart.png)
 
 
 ### Temporal Insights
 - **Seasonal and Monthly Variation**: Traffic increases in warmer months.
 - **Weekday vs Weekend Patterns**: Business rides more common on weekdays, leisure rides on weekends.
 
-  ![Highlighting Screenshot](https://github.com/Umutoni-gloria/Python_and_Power_BI_ass/blob/3e6bba53e7a761aea65868aa017d228cc1804c94/Screenshots%20Py/Boxplot.png)
+  ![Highlighting Screenshot](https://github.com/Umutoni-gloria/Python_and_Power_BI_ass/blob/cc7c91f5c649114e8e4702011c55bb0c0bc7366b/Screenshots%20Py/Highlighting.png)
 
 
 ### Geospatial Insights
@@ -71,6 +72,23 @@ This project aims to analyze the Uber Fares dataset using Python and Power BI. T
 - **Distance** is a strong driver of fare amount but has variability based on traffic or route efficiency.
 
 ---
+
+## ✅ DASHBOARD
+This project analyzes 200,000+ Uber rides using Python and Power BI.
+The interactive dashboard helps uncover fare patterns, peak hours, busiest days, and geographic ride trends.
+
+🔍 Dashboard Features:
+📈 Fare Trends by hour, day, and month
+
+🕓 Peak vs Off-Peak ride insights
+
+📅 Weekday analysis with slicers
+
+🌍 Pickup heatmap by GPS coordinates
+
+🎯 Filters by weekday, hour, and peak hours
+
+ ![Highlighting Screenshot](https://drive.google.com/file/d/12bKZSBCQy5VVvikqWKGQJs1GcxUOsFoe/view?usp=drive_link)
 
 ## ✅ Conclusion
 
