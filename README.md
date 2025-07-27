@@ -88,7 +88,7 @@ The interactive dashboard helps uncover fare patterns, peak hours, busiest days,
 
 🎯 Filters by weekday, hour, and peak hours
 
- ![Highlighting Screenshot](https://drive.google.com/file/d/12bKZSBCQy5VVvikqWKGQJs1GcxUOsFoe/view?usp=drive_link)
+ ![Highlighting Screenshot](https://drive.google.com/file/d/12bKZSBCQy5VVvikqWKGQJs1GcxUOsFoe/view?usp=sharing)
 
 ## ✅ Conclusion
 
